@@ -86,3 +86,4 @@ src/
 - The AI is instructed to be brief and focus on implementation over explanations
 - Anonymous users can use the system but won't have project persistence
 - When no Anthropic API key is provided, a mock provider generates static example components
+- Use comments sparingly. Only commnet for complex code
